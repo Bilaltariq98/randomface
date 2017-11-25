@@ -1,6 +1,7 @@
 # RandomFace
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.3.
+This is a solution to the random face challange: https://github.com/angular-medellin/challenges/tree/master/challenges/1-random-face
 
 ## Development server
 
